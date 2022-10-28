@@ -9,9 +9,9 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Software Solutions. Bengaluru,Karnataka </h1>
+<h1 align="center">Welcome to Mithun Software Solutions, Bengaluru,Karnataka. </h1>
 <h1 align="center"> Mithun Software Solutions is an excellent Training center for those who wants to start their career in DevOps with AWS 
-	and also it provides a Job Assitance and Job Support. You can gain a real time work experience with dummy project work scnarios and gain knowledge about a real time work.
+	and also it provides a Job Assitance and Job Support. You can gain a real time work experience with dummy project work scenarios and gain knowledge about a real time work.
 	for more info contact-xxx</h1>
 <hr>
 <br>
